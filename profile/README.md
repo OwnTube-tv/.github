@@ -2,7 +2,7 @@
 
 OwnTube.tv 📺 is a new 2024 effort at providing a simple and portable client for the [PeerTube](https://joinpeertube.org) video streaming platform. Your videos, your user experience, on your apps! 💖 ![Umami tracking pixel](https://cloud.umami.is/p/7pYMzfBPt)
 
-To get involved and contribute, reach out to [`@ar9708`](https://github.com/ar9708) 🙋‍♀️!
+To get involved and contribute, reach out to [`@okaziya`](https://github.com/okaziya) 🙋‍♀️!
 
 <!--
 
